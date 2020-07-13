@@ -28,8 +28,8 @@ opencv, glob, numpy, cors, ffmpeg(codec)
 
 ## Benchmark:
 
-<img src="assests/benchmark.png" width="40" height="40" />
+<img src="assests/benchmark.png" width="640" height="480" />
 
 ## Demo:  
 
-<img src="assests/demo.gif" width="50" height="40" />
+<img src="assests/demo.gif" width="720" height="480" />
